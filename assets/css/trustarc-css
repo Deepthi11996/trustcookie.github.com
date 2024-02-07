@@ -1,0 +1,31 @@
+@media only screen and (min-width: 550px) and (max-width: 950px) {
+a#truste-consent-close {
+margin: 15px !important;
+}
+.trustarc-client-logo {
+padding: 20px 0px 10px !important;
+}
+.trustarc-logo-container {
+height: 40px;
+}
+.trustarc-banner-header {
+font-size: 20px !important;
+}
+.trustarc-body-text {
+font-size: 14px !important;
+}
+.trustarc-secondary-btn, .trustarc-primary-btn, .trustarc-acceptall-btn,
+.trustarc-declineall-btn {
+font-size: 16px !important;
+height: 35px!important;
+}
+.trustarc-banner-actions > div {
+width: 100% !important;
+display: flex !important;
+flex-direction: row !important;
+}
+.trustarc-agree-btn {
+margin-right: 10px;
+margin-left: 10px;
+}
+}
